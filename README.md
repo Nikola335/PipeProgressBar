@@ -1,0 +1,2 @@
+# PipeProgressBar
+A pipe progress bar is a type of progress bar that is used to indicate the progress of a task, typically through a graphical representation. It is often displayed as a series of vertical bars that are filled in as the task progresses, giving the user an indication of how far along the process is. Pipe progress bars can be used to display the progress of any type of task, such as downloading a file, uploading data, or completing an online form.
